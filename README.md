@@ -4,7 +4,7 @@
 <h3 align="center">A Passionate Software Engineer from Nigeria.</h3>
 <img align= "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=louis-Emekene&label=Profile%20views&color=0e75b6&style=flat" alt="louis_emekene" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MikasaHack24s&label=Profile%20views&color=0e75b6&style=flat" alt="louis_emekene" /> </p>
 
 <p align="left"> <a href="https://twitter.com/louis_emekene" target="blank"><img src="https://img.shields.io/twitter/follow/louis_emekene?logo=twitter&style=for-the-badge" alt="louis_emekene" /></a> </p>
 
@@ -20,7 +20,7 @@
 <!-- [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://developers.google.com/profile/u/louis_emekene/dashboard) -->
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/tolutech/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/4clrdv)
-[![medium](https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@louis-Emekene)
+[![medium](https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@MikasaHack24s)
 <!-- [![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/louis_emekene)
 [![youtube](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC2TH9k3DtCjwPUovh-Sb-Qg) -->
 
@@ -53,27 +53,27 @@
 
 ## ❤ Views and Followers.
 
-<a href="https://github.com/Louis-Emekene/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Louis-Emekene">
+<a href="https://github.com/MikasaHack24s/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=MikasaHack24s">
 </a>
-<a href="https://github.com/louis-Emekene?tab=followers"><img src="https://img.shields.io/github/followers/louis-Emekene?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/MikasaHack24s?tab=followers"><img src="https://img.shields.io/github/followers/MikasaHack24s?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <br>
 
 ## Stats.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louis-Emekene&layout=compact&theme=dark&hide_border=false" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=louis-Emekene&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Louis Emekene's github stats" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikasaHack24s&layout=compact&theme=dark&hide_border=false" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=MikasaHack24s&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Louis Emekene's github stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=louis-Emekene&theme=dark" alt="louis-Emekene" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MikasaHack24s&theme=dark" alt="MikasaHack24s" /></p>
 <br/>
  <b>Note:</b> The top languages shown here is just a measure of what i have posted here on Github and not my actual skill level
 
-<!-- > `<a href="https://github.com/louis-Emekene/github-readme-activity-graph"><img alt="Louis Emekene' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=louis-Emekene&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />``</a>` -->
+<!-- > `<a href="https://github.com/MikasaHack24s/github-readme-activity-graph"><img alt="Louis Emekene' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MikasaHack24s&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />``</a>` -->
 
 <br/>
 
 <!---
-louis-Emekene/louis-Emekene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MikasaHack24s/MikasaHack24s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
